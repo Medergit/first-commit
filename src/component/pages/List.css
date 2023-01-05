@@ -1,0 +1,15 @@
+.names{
+    list-style-type: none;
+    font-weight: 700;
+    
+}
+.names li{
+    border-radius: 5px;
+    padding: 3px;
+    margin: 0 40px 5px 0;
+    transition: 1s;
+    cursor: pointer;
+}
+.names li:hover{
+    background-color: aquamarine;
+}

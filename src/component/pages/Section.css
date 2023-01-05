@@ -1,0 +1,24 @@
+.container{
+    padding: 10px;
+    height: 500px;
+    width: auto;
+    display: flex;
+    background-color: blanchedalmond;
+}
+
+.menu, .obj, .graph{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+
+.menu{
+    width: 20%;
+    
+}
+.obj{
+    width: 60%;
+    margin: 0px 10px;
+}
+.graph{
+    width: 20%;
+}

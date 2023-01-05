@@ -1,0 +1,37 @@
+.profileHeader{
+    background-color:black;
+    border-radius: 5px;
+    color: rgb(253, 253, 253);
+    margin: 20px;
+    display: flex;
+}
+
+.profileImg{
+    width: 100px;
+    transition: 2s;
+}
+.profileImg:hover{
+    width: 200px;
+    
+}
+.profileName{
+    margin: 20px;
+}
+
+.listName{
+    margin-right: 15px;
+}
+.about{
+    display: flex;
+    border-radius: 5px;
+    background-color:rgb(201, 145, 81);
+    margin: 0px 20px;
+    padding: 0 10px;
+}
+
+.flag{ 
+    width: 16px;
+    margin-right: 5px ;
+}
+
+
